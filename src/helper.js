@@ -1,4 +1,4 @@
 export const server = {
-	baseURL: 'http://96.126.118.135:3000'
+	baseURL: 'http://96.126.118.135:8080'
 }
 
