@@ -2,8 +2,11 @@ module.exports = {
 	//...
 	configureWebpack: {
 		devServer: {
-			host: '45.56.77.251',
+			host: '96.126.118.135',
 			port: 80,
+			allowedHosts: [
+				'.meadorjc.com'
+			]
 
 		}
 	}
